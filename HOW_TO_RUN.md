@@ -1,4 +1,6 @@
-install 
+install :
+
+1. copy 
 
 Follow: https://github.com/open-mmlab/OpenPCDet/blob/master/README.md
 
