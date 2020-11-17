@@ -1,4 +1,6 @@
 
+copy PV-RCNN code to your local drive
+git copy https://github.com/open-mmlab/OpenPCDet.git
 
 1. copy the following files to respective OpenPCDet folder:
 
